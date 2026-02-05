@@ -18,7 +18,7 @@ function App() {
       <Blog/>
       <Footer/>
     </div>
-   ;
+  );
 }
 
 export default App;
